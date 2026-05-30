@@ -33,7 +33,7 @@ A centralized repository documenting my data analytics workflow, methodologies, 
 | Week/Task | Project Name | Description | Status |
 | :--- | :--- | :--- | :--- |
 | Week 1 | [Data Cleaning Log](Week1_ChangeLog.md) | Structural integrity audit and dataset standardization. | Completed |
-| Week 2 | [EDA Executive Summary](EDA_Executive_Summary.md) | Statistical outlier detection, granularity audit, and feature engineering. | Completed |
+| Week 2 | [EDA Executive Summary](Executive_Summary.EDA.md) | Statistical outlier detection, granularity audit, and feature engineering. | Completed |
 
 ---
 ## 📬 Connect
