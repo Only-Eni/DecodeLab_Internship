@@ -34,6 +34,8 @@ A centralized repository documenting my data analytics workflow, methodologies, 
 | :--- | :--- | :--- | :--- |
 | Week 1 | [Data Cleaning Log](Week1_ChangeLog.md) | Structural integrity audit and dataset standardization. | Completed |
 | Week 2 | [EDA Executive Summary](Week2_Executive_Summary.EDA.md) | Statistical outlier detection, granularity audit, and feature engineering. | Completed |
+| Week 3 | [Week 3: SQL Executive Summary](Week3_SQL_Executive_Summary.md) | Relational database querying, temporal auditing, and operational bottleneck isolation. | Completed |
+| Week 3 | [Week 3: SQL Query Scripts](Phase3_Queries.sql) | Declarative queries for revenue loss, marketing ROI, and structural audits. | Completed |
 
 ---
 ## 📬 Connect
